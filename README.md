@@ -14,6 +14,8 @@ I'm always on the lookout for interesting projects that combine my interests. If
 
 ## Projects 
 
+My resume can be found [here](https://drive.google.com/file/d/1PM7ydcU9gvU79s1DyYA-egfjuyIDKGnc/view?usp=sharing)
+
 MIT Sloan: 
 
 * Available upon request (classified data) 
