@@ -38,4 +38,4 @@ National Center for Health Statistics:
 Other: 
 * My [Tableau profile](https://public.tableau.com/app/profile/amy2802) has other miscellaneous data visualizatoins that I've done. 
 
-My resume can be found [here](https://drive.google.com/file/d/1PM7ydcU9gvU79s1DyYA-egfjuyIDKGnc/view?usp=sharing)
+My resume can be found [here](https://drive.google.com/file/d/1PM7ydcU9gvU79s1DyYA-egfjuyIDKGnc/view?usp=sharing).
