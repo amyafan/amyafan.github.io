@@ -14,8 +14,6 @@ I'm always on the lookout for interesting projects that combine my interests. If
 
 ## Projects 
 
-My resume can be found [here](https://drive.google.com/file/d/1PM7ydcU9gvU79s1DyYA-egfjuyIDKGnc/view?usp=sharing)
-
 MIT Sloan: 
 
 * Available upon request (classified data) 
@@ -38,4 +36,6 @@ National Center for Health Statistics:
   * More about the project and my fellowship [here](https://github.com/amyafan/CivicDigitalFellowship2018) 
 
 Other: 
-* My [Tableau profile](https://public.tableau.com/app/profile/amy2802) has other miscellaneous data visualizatoins that I've done
+* My [Tableau profile](https://public.tableau.com/app/profile/amy2802) has other miscellaneous data visualizatoins that I've done. 
+
+My resume can be found [here](https://drive.google.com/file/d/1PM7ydcU9gvU79s1DyYA-egfjuyIDKGnc/view?usp=sharing)
