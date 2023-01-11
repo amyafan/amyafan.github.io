@@ -1,8 +1,8 @@
 # Hello! I'm Amy. 
 
-I'm a data reporter on the national investigative team at the Scripps Washington Bureau and Newsy. I help write and report stories using datasets and code. 
+I'm a data reporter on the national investigative team at [Scripps News](scrippsnews.com). I help write and report stories using datasets and code. 
 
-Before journalism, I thought I would become an economist or sociologist (I couldn't decide). I worked at [MIT Sloan](https://mitsloan.mit.edu/) and the [Golub Center for Finance and Policy](https://gcfp.mit.edu/) and was a [Civic Digital Fellow](https://www.codingitforward.com/summer-fellowships) at the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm). I've also helped with research projects on women's business ownership  and educational segregation research. 
+Before journalism, I thought I would become an economist or sociologist (I couldn't decide). I worked at [MIT Sloan](https://mitsloan.mit.edu/) and the [Golub Center for Finance and Policy](https://gcfp.mit.edu/) and was a [Civic Digital Fellow](https://www.codingitforward.com/summer-fellowships) at the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm). I've also helped with research projects on women's business ownership  and educational segregation. 
 
 I hold a B.S. in mathematics from Duke University, where I received a [full merit scholarship](https://ousf.duke.edu/merit-scholarships/ab-duke-scholars-program/). 
 
